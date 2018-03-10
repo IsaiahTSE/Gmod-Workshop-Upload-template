@@ -1,0 +1,10 @@
+	"title"		:	"",
+	"type"		:	"",
+	"tags"		:	[ "roleplay", "realism" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
